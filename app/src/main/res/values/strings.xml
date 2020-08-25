@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RTU_Sample2</string>
+    <string name="clickerText">Nice clicker</string>
+    <string name="clickerButton">Clicker</string>
+    <string name="chatText">This is a cool chat</string>
+    <string name="chatButton">Chat</string>
+    <string name="counterButton">counter</string>
+    <string name="exitButton">Exit</string>
+    <string name="chatInputMessage">Input your message</string>
+    <string name="chatSend">Send</string>
+    <string name="chatMessageReceived">Message Received</string>
+    <string name="chatReply">Reply</string>
+    <string name="chatReplyMessage">Input your reply</string>
+    <string name="receivedMessage">Reply received</string>
+    <string name="receivedMessageLabel">Reply received</string>
+</resources>
