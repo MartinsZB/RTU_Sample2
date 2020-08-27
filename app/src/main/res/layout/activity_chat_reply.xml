@@ -13,8 +13,8 @@
         android:layout_marginStart="16dp"
         android:layout_marginBottom="16dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/receivedMessage"
+        android:hint="@string/receivedMessage"
+        android:inputType="textShortMessage|none"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/chatButtonReply"
         app:layout_constraintStart_toStartOf="parent" />
